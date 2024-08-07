@@ -25,7 +25,7 @@ class Home extends StatelessWidget {
           Container(
             color: Colors.brown[200],
             padding: const EdgeInsets.all(20),
-            child: const StyledBodyText('How I like my coffee...'),
+            child: const StyledBodyText('How I like my coffee'),
           ),
           Container(
             color: Colors.brown[100],
